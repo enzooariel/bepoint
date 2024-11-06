@@ -1,0 +1,7 @@
+mongo atlas: 
+user: enzooarielok
+cont: LNihas5gecHnDg3A
+
+
+user: enzoalcon
+cont: rescate7
